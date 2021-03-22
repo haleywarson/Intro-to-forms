@@ -1,9 +1,19 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "first_name": "Willy",
-        "last_name": "Nelson"
-      }
-    ]
-  }
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Willy",
+      "last_name": "Nelson"
+    },
+    {
+      "first_name": "hihi",
+      "last_name": "asdfsd",
+      "id": 2
+    },
+    {
+      "first_name": "hi",
+      "last_name": "hello",
+      "id": 3
+    }
+  ]
+}
